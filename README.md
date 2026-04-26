@@ -37,5 +37,8 @@ Simulation results are included in the Results folder.
 - Nano-scale computing
 - Low power digital systems
 
+## Guide
+Dr. Shishir A. Bagal - (Professor K. D. K. College of Engineering)
+
 ## 👨‍💻 Author
 Atharva Jangade
